@@ -1,8 +1,11 @@
+# Unity3DReference
 
-	Unity3D Reference
-    ----------------------------------------
+Quick search Unity3D Script Reference - http://docs.unity3d.com/ScriptReference/
 
-    Highlight a word and CTRL + ' to search the script reference using default browser.
+## Usage
+
+Highlight a word and `CTRL + '` to search the script reference using default browser.
+`CTRL + '` with nothing highlighted to prompt input to search.
 
 
 ## How to install
