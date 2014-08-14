@@ -12,10 +12,10 @@ Highlight a word and `CTRL + '` to search the script reference using default bro
 
 1. Clone or [download] git repo into your packages folder (Preferences -> Browse Packages)
 
-Or with [Package Control](http://wbond.net/sublime_packages/package_control):
+Or with [Package Control](https://sublime.wbond.net/):
 
-1. Run "Package Control: Add repository" and add https://github.com/talitore/Unity3DReference
-2. Run "Package Control: Install Package" command, find and install `Unity3D Reference` plugin.
+1. Run "Package Control: Install Package" command.
+2. Find and install `Unity3D Reference` plugin.
 
 ## Issues
 
