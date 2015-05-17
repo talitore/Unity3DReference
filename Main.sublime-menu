@@ -43,6 +43,55 @@
                             {
                                 "command": "open_file",
                                 "args": {
+                                    "file": "${packages}/Unity3DReference/Default (Windows).sublime-settings",
+                                    "platform": "Windows"
+                                },
+                                "caption": "Settings - Default"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/Unity3DReference/Default (OSX).sublime-settings",
+                                    "platform": "OSX"
+                                },
+                                "caption": "Settings - Default"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/Unity3DReference/Default (Linux).sublime-settings",
+                                    "platform": "Linux"
+                                },
+                                "caption": "Settings - Default"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/User/Unity3DReference.sublime-settings",
+                                    "platform": "Windows"
+                                },
+                                "caption": "Settings - User"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/User/Unity3DReference.sublime-settings",
+                                    "platform": "OSX"
+                                },
+                                "caption": "Settings - User"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/User/Unity3DReference.sublime-settings",
+                                    "platform": "Linux"
+                                },
+                                "caption": "Settings - User"
+                            },
+                            { "caption": "-" },
+                            {
+                                "command": "open_file",
+                                "args": {
                                     "file": "${packages}/Unity3DReference/Default.sublime-keymap",
                                     "platform": "Windows"
                                 },
