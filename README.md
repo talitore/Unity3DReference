@@ -4,7 +4,7 @@ Quick search Unity3D Script Reference - http://docs.unity3d.com/ScriptReference/
 
 ## Usage
 
-Highlight a word and `CTRL + '` to search the script reference using default browser.
+Highlight a word and `CTRL + '` (single-quote) to search the script reference using default browser.
 `CTRL + '` with nothing highlighted to prompt input to search.
 
 
