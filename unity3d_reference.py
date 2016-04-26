@@ -19,5 +19,13 @@ def on_cancel():
 	return
 
 def SearchFor(data):
-	url = 'http://docs.unity3d.com/ScriptReference/30_search.html?q={0}'.format(data)
-	webbrowser.open_new_tab(url)
+	defaults = sublime.load_settings('Default.sublime-settings')
+	settings = sublime.load_settings('Unity3DReference.sublime-settings')
+
+	use_local_url = settings.get('use_local_url', defaults.get('use_local_url'))
+	local_url = settings.get('local_url', defaults.get('local_url'))
+	default_url = 'http://docs.unity3d.com/ScriptReference/30_search.html'
+
+	url = use_local_url and local_url or default_url
+
+	webbrowser.open_new_tab(url + '?q={0}'.format(data))
