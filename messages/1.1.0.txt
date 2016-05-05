@@ -1,0 +1,5 @@
+# Unity3DReference 1.1.0
+
+## New
+
+- Add support for searching local documentation.
