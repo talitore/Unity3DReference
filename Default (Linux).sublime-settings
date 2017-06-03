@@ -1,4 +1,5 @@
 {
   "use_local_url": false,
-  "local_url": "file:///opt/Unity/Editor/Data/Documentation/en/ScriptReference/30_search.html"
+  "local_url": "file:///opt/Unity/Editor/Data/Documentation/en/ScriptReference/30_search.html",
+  "default_browser": ""
 }
